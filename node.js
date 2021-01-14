@@ -11,4 +11,4 @@ http.createServer(
       res.end();
     })
   }
-).listen(8080, () => console.log("fuck off"));
+).listen(8080, () => console.log("Server Started"));
